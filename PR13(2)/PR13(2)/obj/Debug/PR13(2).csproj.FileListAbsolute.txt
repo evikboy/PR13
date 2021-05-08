@@ -1,0 +1,10 @@
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\bin\Debug\PR13(2).exe.config
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\bin\Debug\PR13(2).exe
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\bin\Debug\PR13(2).pdb
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\obj\Debug\PR13(2).csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\obj\Debug\PR13_2_.Form1.resources
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\obj\Debug\PR13_2_.Properties.Resources.resources
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\obj\Debug\PR13(2).csproj.GenerateResource.cache
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\obj\Debug\PR13(2).csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\obj\Debug\PR13(2).exe
+C:\Users\Ez\source\repos\PR13(2)\PR13(2)\obj\Debug\PR13(2).pdb
